@@ -1,0 +1,3 @@
+Feature   	                      THE 1st code snippet	                                            The 2nd code snippet
+Bias identification	            -Uses statistical tests to identify biased features	.                 -Same.
+Bias correction	                 -Subtracts the mean of the biased feature from the biased feature.	 -Uses adversarial training to correct bias.
