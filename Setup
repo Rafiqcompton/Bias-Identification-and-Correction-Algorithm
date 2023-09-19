@@ -1,0 +1,6 @@
+To use the algorithm, you will need to install the following Python packages:
+
+numpy
+scikit-learn
+
+You will also need to create a NumPy array for the data and the target values.
